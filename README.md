@@ -1,4 +1,4 @@
-"Python being slow is actually a good thing" ~idk wtf this guy is talking about but ok.
+"Python being slow is actually a good thing" ~some idiotic programmer or smth
 
 Biggest lover of the C programming language.
 
