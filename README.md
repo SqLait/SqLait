@@ -1,4 +1,6 @@
-Interested in low level
+High level programming is f*cking boring
+
+"What they did not take into account was developer time." because it does not define good software, stupid
 
 Working on: MicroXna, Plush, MicroCmd
 
