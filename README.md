@@ -1,6 +1,6 @@
-High level programming is f*cking boring
+Lua >>>>>> Python, Ruby, Javascript
 
-"What they did not take into account was developer time." because it does not define good software, stupid
+metal music is goated
 
 Working on: MicroXna, Plush, MicroCmd
 
