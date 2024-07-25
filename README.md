@@ -1,4 +1,6 @@
-Functional programming is underated
+Primary C/C++ developer
+
+Practicing the art of low level with projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLait&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
