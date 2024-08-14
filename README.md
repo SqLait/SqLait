@@ -1,4 +1,4 @@
-Vim > Emacs
+Text editor > IDE
 
 Working on portfolio & projects
 
