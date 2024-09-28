@@ -8,12 +8,12 @@ I work a lot with: C, C#, Lua and Typescript (wish it could be only C tho 😔).
 What is love? Editing text with Vim <3
 
 What am I learning: 
-Trying to master C to create a game engine from scratch,
-learning haskell to gather knowledge in the functional space,
-Building a deep understanding of the Computer,
-The art of note taking with org,
-Self learning Math & Physics,
-French.
+- Trying to master C to create a game engine from scratch
+- learning haskell to gather knowledge in the functional space,
+- Building a deep understanding of the Computer,
+- The art of note taking with org,
+- Self learning Math & Physics,
+- French.
 
 This is a centralized place for all my work.
 All my code (from now on) will be published under the BSD-Clause 3 license.
