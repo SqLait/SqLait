@@ -16,7 +16,7 @@ What am I learning:
 - French.
 
 This is a centralized place for all my work.
-All my code (from now on) will be published under the BSD-Clause 3 license.
+All my code (from now on) will be published under the BSD-3 Clause license.
 Meaning you can use my code to do whatever your heart desires.
 
 Here are some stats that may interest you:
