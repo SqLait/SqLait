@@ -9,7 +9,4 @@ Here are some stats that may interest you:
 ![SqL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqLait&show_icons=true&theme=dracula)
 
 
-Merci beaucoup, pour visionner mon profil <3
-Au revoir!
-
 ~8282
