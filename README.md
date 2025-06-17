@@ -4,7 +4,7 @@ Meaning you can use my code to do whatever your heart desires.
 
 Here are some stats that may interest you:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLait&layout=compact&theme=dracula&langs_count=20&hide=makefile,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLait&layout=compact&theme=dracula&langs_count=20&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 ![SqL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqLait&show_icons=true&theme=dracula)
 
